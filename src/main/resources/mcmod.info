@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oneminutetomidnight",
+  "name": "One Minute To Midnight",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Level36"],
+  "credits": "level36 - the primary coder and idiot who thought this would be a great first MC Mod project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
